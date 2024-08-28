@@ -1,0 +1,1 @@
+FlatMap<FlatMap<std::vec::IntoIter<u32>, Result<Process, std::io::Error>, fn(u32) -> Result<Process, std::io::Error> {Process::open}>, _, {closure@src/main.rs:169:19: 169:37}>
